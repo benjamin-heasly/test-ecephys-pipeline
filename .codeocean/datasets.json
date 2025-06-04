@@ -1,0 +1,9 @@
+{
+	"version": 1,
+	"attached_datasets": [
+		{
+			"id": "9f7ffe0d-ebde-43fd-b8d2-1db094fecfa6",
+			"mount": "ecephys_722209_2024-05-07_12-06-27"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"edges": [
+		{
+			"id": "xy-edge__9f7ffe0d-ebde-43fd-b8d2-1db094fecfa6-capsule_job_dispatch_ecephys_1",
+			"source": "9f7ffe0d-ebde-43fd-b8d2-1db094fecfa6",
+			"target": "capsule_job_dispatch_ecephys_1"
+		}
+	],
+	"nodes": [
+		{
+			"id": "9f7ffe0d-ebde-43fd-b8d2-1db094fecfa6",
+			"position": {
+				"x": 645,
+				"y": 240
+			},
+			"selected": true,
+			"type": "dataset"
+		},
+		{
+			"data": {
+				"capsule_id": "d75d79c4-8f21-4d17-83ec-13b2a43dcaa0"
+			},
+			"id": "capsule_job_dispatch_ecephys_1",
+			"position": {
+				"x": 825,
+				"y": 495
+			},
+			"type": "capsule"
+		},
+		{
+			"id": "results",
+			"position": {
+				"x": 945,
+				"y": 895
+			},
+			"type": "results"
+		}
+	],
+	"timestamp": 1749061551347,
+	"viewport": {
+		"x": 0,
+		"y": 0,
+		"zoom": 0.75
+	}
+}

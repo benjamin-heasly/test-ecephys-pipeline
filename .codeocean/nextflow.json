@@ -1,0 +1,28 @@
+{
+	"version": 2,
+	"processes": [
+		{
+			"name": "capsule_job_dispatch_ecephys_1",
+			"capsule": {
+				"id": "d75d79c4-8f21-4d17-83ec-13b2a43dcaa0",
+				"name": "Job Dispatch Ecephys",
+				"slug": "6237826",
+				"version": 4,
+				"app_panel": true
+			},
+			"resources": {
+				"cpus": 4,
+				"memory": 32
+			},
+			"inputs": [
+				{
+					"id": "L2nALbnhuFJgBUp9",
+					"source_id": "9f7ffe0d-ebde-43fd-b8d2-1db094fecfa6",
+					"type": "dataset",
+					"name": "ecephys_722209_2024-05-07_12-06-27",
+					"source_path": "ecephys_722209_2024-05-07_12-06-27/"
+				}
+			]
+		}
+	]
+}

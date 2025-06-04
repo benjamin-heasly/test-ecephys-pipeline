@@ -1,0 +1,10 @@
+{
+	"version": 1,
+	"datasets": [
+		{
+			"id": "9f7ffe0d-ebde-43fd-b8d2-1db094fecfa6",
+			"name": "ecephys",
+			"description": "Raw ecephys data"
+		}
+	]
+}
